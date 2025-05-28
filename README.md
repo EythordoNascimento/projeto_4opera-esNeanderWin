@@ -15,7 +15,7 @@ Para rodar este código, você precisará:
 - Um arquivo **`.asm`** com o código-fonte
 
 ## 🚀 Como Executar
-1. **Baixe e instale o NeanderWin** [aqui](https://www.inf.ufrgs.br/~cabral/ps/neander-win.html).
+1. **Baixe e instale o NeanderWin** [aqui](https://sourceforge.net/projects/neander-x/).
 2. **Abra o NeanderWin** e vá até a opção **Montador**.
 3. **Copie o código do arquivo `.asm`** e cole no editor do NeanderWin.
 4. **Compile o código** no montador para verificar erros.
